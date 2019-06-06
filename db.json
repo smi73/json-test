@@ -1,0 +1,2320 @@
+{
+  "events" : {
+    "-LfSn7Oe4fe0oVtLL4c6" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:28:49",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSn7bnqpzU03gfOCfa" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:28:50",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSnJJcdauGZlYWEr3u" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:29:38",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfSnJLpDKxaRUBPE-O2" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:29:38",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfSnxscvxPvBaPV97-t" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:32:28",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSnxx4W3n40QEMNhKR" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:32:29",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSoV6bTn54kIXPkYV3" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:34:49",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSoVD7DzrqM8qrbMHY" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:34:49",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSpY9SybcCLZEDI4Xb" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:39:23",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSpYGlgtsbXT7hLz2u" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:39:24",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSs84jEKUxrZGZghWY" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:50:43",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfSs8fazW_2wt0EUsTB" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:50:45",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfSsVWMaJUcEpVCg7tA" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:52:19",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSsVfXT9ij8b47z-BL" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:52:19",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSskQVIhpSyjXZjyOn" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:53:24",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSskp2hO6sJBqZziWx" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 06:53:26",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSzJGlxT2tlhYL5t4G" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:22:04",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSzJIQv1Saa2nORniB" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:22:04",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSzrPDqvzsZH0x53kz" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:24:28",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfSzs0peVXTXYDYvpg3" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:24:30",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT0TSeH5ZFMncvfQVF" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:31:30",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT0TnjjY6iG1zjuEHF" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:31:31",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT0cP2qiNH_H1J_WCX" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:32:10",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT0caU_xMjldA9mT7f" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:32:11",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT0xlox9PzLmZraz-X" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:33:38",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT0y7_MCM9DfuyzWSP" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:33:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfT1Q2brQ-tq0r4CExh" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:35:38",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfT3dVMvquGhvqAWKW4" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 07:45:21",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUdU_IplZ02mvPMvb3" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:05:57",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUdUelcod1t0aNeHOK" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:05:57",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUf2f7iBaw6IH-rOme" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:12:47",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUf379hkSJoptJRbj8" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:12:49",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUfbLS_k6NWvgS1GFL" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:15:13",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUfbMl8O_J_5b35nmq" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:15:13",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUg5dk6JeR2gmSVDTQ" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:17:21",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUg5grb1DwBtLumMMJ" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:17:22",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUhYLwpXdI44_aFRAQ" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:23:41",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUhYgVVefF9ICpHApd" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:23:43",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUihPDmgXFfe5mKSA7" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:28:45",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUihaaiaoI4amu9bGr" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:28:45",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUit3g1oDammtgKQzc" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:29:32",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUitLwDMCzK6h9w-iG" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:29:33",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUlLIcliRFwKcFyKnw" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:40:16",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUlLT2kPykFi9Vw_ty" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:40:17",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUmJ74ojOxpjQaE8uv" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:44:30",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUmJ7SX34pjwVrufOc" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:44:30",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUmJltYs2SCT3v7zZa" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:44:32",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUmK5mnP6MhxtkSAMd" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:44:34",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUooWmY6tim_k3XCZC" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:55:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUooeJ5xrEk4ve9fcz" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 15:55:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUr0h49N8YIlBSgWwm" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:05:05",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUr16rRjIMC7Lz9cxB" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:05:07",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUs2agZhNoprUxpbHB" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:09:35",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUs2gsBFL3tPiN6DMJ" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:09:35",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUsKPFaGnnF5ETuQwb" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:10:48",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUsKnTyoIAwG4ET3GX" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:10:49",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUsRSiGRlA72Mx_PeG" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:11:17",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUsReEcAgnW3rlYaVT" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:11:17",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUsabwlO-l9Rt_V5Ra" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:11:58",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUsavqo_wh_ple6_md" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:11:59",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUsmKLB1m7l9lfAnTH" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:12:46",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUsmfb5pwWWjehXlTI" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:12:48",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUtc8m9ENQPxNso4Zx" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:16:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUtcT9nZKItTX9xtQ-" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:16:28",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfUv92AAsluBbsRwKTu" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:23:08",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUv9PIzl9zTqkKnODr" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:23:09",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUve0GvuJTkDLdOk-v" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:25:19",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfUviBFocPHtYcCHG_a" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-22 16:25:36",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfYNNfHad8dtQQcVUOi" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-23 08:29:41",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lf_4jaeSWWaJQwVlnuY" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-23 16:27:29",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lf_OdjenDRKsGcdiZJi" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-23 17:54:28",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfcG-FgdDXfUcPQ43zX" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:15:32",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcG-Up0a_dmKyeMpw2" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:15:33",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcG9VEYTE3C6_aFbst" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:16:14",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcG9lRgUGeDrf8dj1H" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:16:15",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcGJWzDztAekUBd5ZL" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:16:55",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcGJYz0V4MI11aVIHO" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:16:56",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcHVMQeN_OUPYBVg3C" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:22:06",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcHVPZWwNDGRaFBW6R" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:22:06",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcHecdzU5EnKWOOVy4" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:22:48",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcHegMKIJLe7U13vU_" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:22:48",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcI62wjhXwUoogT445" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:24:45",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcI63eUW8jNGnzwdhU" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:24:45",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcOOca5kPoaIWsOrYT" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:52:13",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcOOu7LW2cpUZv-sIr" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 07:52:15",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcVvNQXd2IHH6KnOZM" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 08:25:07",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfcWOicQBR42eIS9Yuu" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 08:27:11",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe1AM6PbGR6DMILPfv" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:30:00",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe1IhxyyQzV9EcAuc7" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:30:34",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe1ZQ2uU1YaMHzrlC5" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:31:43",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe1ZmBVnWyMGDmj0Dx" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:31:44",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe1vRPFJpWTLEf3UaU" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:33:17",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe1vm9yvAZzT86Td8F" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:33:19",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe2Ymz6XUv2kJQymMB" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:36:02",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe2Yvg8TQ3nd7i1iRL" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:36:03",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe2hpPg6on4scYYDnR" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:36:43",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe2ihz3U5pdarCNHgq" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:36:47",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe39Eia-4iRFB3OGb7" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:38:40",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe39bGycaj48bbZwnf" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:38:41",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe3WS337bloxXSKyjq" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:40:15",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe3WbKSAxtMsYnsSe1" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:40:16",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe44hP-GwzH3ikYFMy" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:42:43",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe44pkTt1sFmArg3Nx" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:42:44",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe4GJ9JVYcM2pNfP6R" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:43:31",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe4G_ZbJ_F2nZ0k-o3" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:43:32",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe4IfYJbBX0e_C3o0y" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:43:41",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe4J141xCNMZFRji45" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:43:42",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfe4QQBEOhKUWc4CRof" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:44:12",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe4QrLjeF2sOmG5YdP" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:44:14",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe5VvYnsPdk6X2Wall" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:48:57",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe5Wqtkdn84bURF2AX" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:49:01",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe6AcloaaEQMpSF8mI" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:51:52",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe6BPoNDQvpwZsKi-T" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 15:51:55",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe9mCX68ZkhbDXHCoi" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:07:36",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfe9mS6hAMNlHE8vt_P" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:07:37",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeDgcUPbaR5zNhYXgn" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:24:42",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeDh1AwaS2xBm3M9f-" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:24:44",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeFjWzRyymoIfwcWlD" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:33:38",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeFjgp4RUbLWYCYgT1" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:33:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeFtZhg_VMILbSBTUy" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:34:19",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeFtxXIi-k-swjuh1F" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:34:21",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeGCuWUorzA2k12Eao" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:35:43",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeGD1CAoFLGOXv-56c" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:35:43",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeGbuGhYMRRJ1sppC5" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:37:29",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeGbxk-EitULxMrvwJ" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:37:29",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeIyoRlVy9p9JJ2JuE" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:47:47",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeIzCbkmptMg6l2nX9" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:47:49",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeJA_3syigRVEgarNx" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:48:40",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeJAwnh7Gf_G_QeK3s" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:48:41",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeJrUPExD3Uw5Gr8Vn" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:51:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeJrVcNiEOAd34kxqG" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:51:40",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeK0j99UobWukH7GQb" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:52:21",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeK0mTDs8Qai4hL_Q8" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:52:22",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeKRxSZw_v64Yuc_MX" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:54:13",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeKSAFF6IN0xfTxh5G" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:54:14",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeLfnyUOkwJCi3jlQX" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:59:36",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeLgTQ26FXaSEaN1pD" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 16:59:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeM3xpPJdIewsMZ6xL" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:01:19",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeM4Qrdd401n_jqAt3" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:01:21",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeMa-QOpFKE2h6AT2S" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:03:34",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeMahvpsp2efRCc-lb" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:03:37",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeO2XNwYNvPcDhwFl6" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:09:57",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeO2hEQFAFGNBARagd" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:09:58",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeOCnvDraOwlkzD-vi" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:10:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeOCytLpAq-MnKSxhU" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:10:40",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeON3t3GiGuxZstbmz" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:11:22",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeONFl5yP_d2yW3KO_" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:11:22",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeOgMeTBgUo-HYtvtB" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:12:45",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeOgocSDepFcKCuFP8" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:12:46",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfePrgaY-cDNWgPcZpj" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:17:53",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfePsAjkVLHt2oz2PDo" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:17:55",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfeQyckaTz7WTUbBuGk" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:22:44",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfeQz37PINvDqg7tXqx" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-24 17:22:45",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfrggayc4Za_6PVmXfT" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:10:50",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfrgzNbpNH-V0sNgYkI" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:12:07",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lfrh06cYghvzB6RZ7tR" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:12:14",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lfrh10CnPQf2mnhqaJC" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:12:18",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfriQaTjrajYHanIoT4" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:18:25",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfriQeEZzFteAUlW79I" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:18:25",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfriRR8b7F9UNo_5_g3" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:18:28",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfriTW_VRqHGQ-EokgE" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:18:37",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfriU16qZDgQKPSYjEC" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:18:39",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfridBbAv9vkkJKkmLE" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:19:20",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfrjSGfeiDkJbD75HM7" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:22:54",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfrjbPUrSAA4aUH9Mrb" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:23:35",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfrjiP1Ktd8uEedgojg" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:24:04",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lfrjpt162lKWi5aFDI1" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:24:35",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfrjrfvQF0AaX5L6ESa" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:24:42",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lfrjs_cb2n9RFK3UIxu" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:24:46",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lfrkxmzg3sVaWx1WENb" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:29:29",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrky9xlVNbGgUZyojW" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:29:31",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrl6xrBNgqZTl8UF4p" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:30:11",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrl7Rk_Gtaq22gUcqR" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:30:13",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrql3J7axC9CZuBM47" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:54:50",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrql7uW7O05CU6275z" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 07:54:50",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrt2Bw-z6VF4T7G6tM" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:04:48",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfrtBINOUreiO0RAtr3" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:05:26",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lfrtijz_D2aEIUc93OM" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:07:47",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrtj1SnPXpnhRhmb7n" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:07:48",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrv0cJYewZfFFpz1c7" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:13:26",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrv0kDqcAIpo0YHc5s" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:13:27",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfrx0yVQCjVylBx9D0_" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:22:12",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfrxT-aAOScyz_91CI3" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 08:24:07",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfthj-qCK_H1fsuoG4f" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:34:37",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfthwLrF7yieh3kX9nH" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:35:31",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfthy7qmC8ulTqNsoxO" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:35:39",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfthz-egH5hPoVIlOXw" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:35:42",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lftj_rlbWajv8Dv1m6n" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:42:43",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftjhENqX7hm1ihAfsT" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:43:14",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftjosC60Xlir0ga6Wm" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:43:45",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftjrwL0ir7wYJxr0IP" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:43:58",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftmnvSzAFHXWqx6sG0" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:56:47",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftmoPUyO_pNtIBr4wB" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 16:56:49",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfto-NlocFr82-cRLrb" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:02:01",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfto-lKRA96CwOipiuL" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:02:02",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lftq9lslV70AtwboQic" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:11:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LftqAkqx5z7N1ENyqvA" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:11:31",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LftrUNfY0v0d2AuH4KN" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:17:14",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftrUT1tEI6u75uGMRD" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:17:14",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftuvSCPLz-lqZnP4Gj" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:32:15",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lftv8wxj9GjnP4w5K9Z" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:33:15",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LftvQg5m4S8kyD04_gM" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:34:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LftvVw94zTxJgkyITJ0" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:34:49",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lftx9s_8h8MrqFSPC2P" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:42:03",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LftxCYvZfhL2vSb1Z-s" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-05-27 17:42:14",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LfwrQUtmO4BsVFu4Csv" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:15:50",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfwsCnhwgI0Bm0oRl95" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:19:16",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfwsDLrDGaoQCbD_xPx" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:19:18",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfwxj-eR7iCucR_-jza" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:43:22",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfwxjFFhEn3cFmXXLL5" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:43:23",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx0PMCA0TPypySBM-T" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:59:27",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfx0Pc8MbIjvaYuAeua" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 07:59:28",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfx0mgKJLSt2GHGQQ2K" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:01:06",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx0n5UxcUjnvjDnQM2" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:01:08",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx0wxkWSEXjQMziP0T" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:01:48",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx0xNKhWFVEp4WU-or" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:01:50",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx1497kRUrEW_EbZiJ" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:02:22",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfx14h0N23DVtSZUj6p" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:02:24",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfx36UK3EdOxqNP5B8e" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:11:16",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx37NiIdA6lnKgwTw0" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:11:19",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx5RbrXWRRULn9yljo" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:21:27",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx5RfFmoUvct_lHNiF" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:21:27",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx6jtXiVEqhw9JPufI" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:27:08",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx6kNW9unDP3x9SyUU" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:27:10",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx6uwlisUzu8jYMV_3" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:27:53",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx6v8Qesmz95AvlzVa" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:27:54",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx74FthZLbZv3WsOaP" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:28:35",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx74QJ_KswlxZvPYUz" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:28:36",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfx8YsUVWa-766zP9Tn" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:35:03",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfx9PV2RK9SOyLeJjTK" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 08:38:46",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfyqmPCc4elRPYHz6Yz" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:32:16",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfyrDnAIpusmYO4uF-O" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:34:12",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfyvw50WQbV14mLCcpH" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:54:46",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfywRpg6uBjq5dzNQMI" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:57:00",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LfywS05lQYZcVmLh2Fy" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:57:01",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfyw_UUSQKRwIyBIPrR" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:57:36",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfyw_nJckhDWiPV4ZIf" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 16:57:37",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfyy4-dMQ7BoYAqyJ4S" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:04:07",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfyy4EzbMJJYbWidOUP" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:04:08",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfyyE03f_8vxcJjuT37" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:04:48",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LfyyE1bJmgfCUFbnyj5" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:04:48",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-4bMygL1Qucdyqoq" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:12:54",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-4zU5PmoFXx1EJ7p" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:12:55",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-EqtROtQsjPSY-gy" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:13:36",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-FG2H3xAWI9B1jic" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:13:37",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-P3MIHXUa6ogaiN1" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:14:18",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-PXzw1jOoKI0p3RF" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:14:20",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-Z55javpVGpczQP9" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:14:59",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz-ZK5mPBfQUKMCrdI" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:15:00",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz3mLj6djRQG39_txf" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:33:26",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz3mVgpit00b6H86rw" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:33:26",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz3wTtB9g4f5d5g5nF" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:34:07",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz3wi3of6hzWK552pJ" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:34:08",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz4kEzEfN9Rka_Hfkb" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:37:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz4keTxXoxoiFB-m6G" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:37:41",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz4uIUP5swmPaRP-0m" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:38:20",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz4uRt53x0oIphF6ye" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:38:21",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz53ZiIqRDFu6b5EOR" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:39:02",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz53iWBtaAv6uTdQB-" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:39:03",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz73I1-Oty8b84qMHW" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:47:46",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz73Rx7ya8hpYe_VuG" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:47:46",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz7DWcacfDQQJnurFf" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:48:27",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz7ED2-snXb8jTKKhe" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:48:30",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz7Yr9AY7OnXdGChN1" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:49:55",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz7ZFnRMxTdo44AkQo" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:49:57",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz7mIsPp-sNOLlTV8l" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:50:54",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz7mS9PjYVCXCz1lMJ" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:50:55",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lfz82bwlp1hBmTCSD_t" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:52:05",
+      "phone" : "Person2 - iPhone"
+    },
+    "-Lfz8B4gFsG69KPjrqco" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-05-28 17:52:40",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0mt0Ya7pJp9G6fTHf" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:14:06",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0pc0Nbil37jO9abQV" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:26:03",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0pcVEq0iyPiMvZx7k" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:26:05",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0rGqFNe_JyIQb6Vnu" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:33:16",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0rHBquXVVWWOHEiwh" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:33:18",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0rQuOaXqAattGxgxr" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:33:58",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0rQzLpQdXHDIOxI-R" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:33:58",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0tK39hmN00NxpyMZ0" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:42:14",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0tKO3yZ9MnWFXOjWx" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:42:15",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0vjY3DwtH_rjHola0" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:52:47",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0vj_L-KQ9lNLIy3ih" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:52:47",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0wBx5EfknPjGVizqE" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:54:47",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg0wCR4P88yhWQ0HDMx" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 06:54:49",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg12sM-yU0Dz1r6Msxt" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 07:28:20",
+      "phone" : "Person1 - iPhone"
+    },
+    "-Lg2fR1fcBqFQcjL3Se4" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:00:47",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2kr13GaborDgE6Bfm" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:24:28",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2ktMdbSTtff-DCoZH" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:24:38",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2kthoGv7_zLw3zdZN" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:24:39",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2nsL0XaTiTMJNMlya" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:37:40",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2nwf2Rn6pOvuZUaTh" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:37:58",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2oL72CWBtKGX5CDQv" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:39:42",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2oNYceGaJ_CgKnMyk" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:39:52",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2oNoTx8_qUHrmeRoR" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:39:53",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2oV8lRFkfcRm2f52S" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:40:23",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2oVrIMi3WRC50cZNi" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 15:40:26",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2ut6c059QWU54yW3N" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:08:18",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2uu2teS8TvL2VC2eL" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:08:22",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2vjnipnf9nbovdKJj" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:12:02",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2vmqmNmbdBiICTdM6" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:12:14",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2wI4pMMvtGW3fkO7q" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:14:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2wI7O3JaaX95LfKMy" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:14:27",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2yexHsSGhJ7pgh-nH" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:24:49",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2ykk5TZGZ8mLwTTSX" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:25:12",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2ysOSHTXquCrSvEIX" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:25:44",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2yw0Jejm6OGOWWngv" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:25:58",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2z7uZA1hQ4fUHcJqc" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:26:51",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg2z8DUjMneZgfj8euY" : {
+      "action" : "Enter",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:26:53",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-Lg3-iYgv-S_njhlq_Tx" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-05-29 16:33:48",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQjqJxHm6z_GPpBboe" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:10:56",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQjsv7FMgipY8Kp3ds" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:11:07",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQjsyKwoq9aIOh_q96" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:11:07",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQkB2CCRL4TMeyYl5b" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:12:25",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQkKbhfCjBA3OFs5hD" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-06-03 07:13:04",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQkYPqsMMkqk6nL37v" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:14:01",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQkYzv6usO38TCbk1N" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:14:03",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQlOHyO2anvzdudubY" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:17:42",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQlQIq984F6f8UIqUX" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:17:50",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQlQz8SmxObgQpwIVj" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:17:53",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQnuAIgY-nY1njJFra" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:28:41",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQnuNIUPQtdVp3q67R" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:28:41",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQoqowjm1AA2_VgCb4" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:32:49",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQovUd_255B_AdjO3x" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:33:08",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQrlcepMnOTwRjVXEf" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:45:34",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQrnWicJCaSA346aqk" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:45:42",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQroIcJ62Zu3Z0DnVm" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 07:45:45",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgQvkzK3Z53js5_U5ZT" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:03:00",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQvqwbFRS3ojwU86xC" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:03:24",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQx4MOWjxjJ3oBnh_u" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:08:46",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQx6g5GH_Q4xJlxdM3" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:08:55",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQx72psCYLKz4qJJI7" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:08:57",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQxmXla1g9FxP-lf5j" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:11:51",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgQxq8-oPuNywdfPSh6" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:12:06",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgR-EENk4vEIpD-kAct" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:22:32",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgR-T4Ta3IBkypmzDJP" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:23:33",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgR-oa2fM8am-ld7xA0" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:25:06",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgR0kCWpVOpJGC1w-Ig" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 08:29:10",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSkD4C46UfXpiU7xMG" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:31:48",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSkKZZzNMl7Vv82Uih" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:32:19",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSkLJiUPwKybiL1oKT" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:32:22",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSkNS4siechv4fOZht" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:32:30",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSkq78fCJtxFS4-AqK" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:34:32",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSkq7ZRejGqXSpWIUT" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:34:32",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSl5ljDlg2pb7mYlKr" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:35:40",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSlCd11LfWX7CHA8Ki" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:36:08",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSlMnPzrgp6aOS4Ipl" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:36:50",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSlOrKxFWdzxMYX2xl" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:36:58",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSlPSl7_u-IRmeU67B" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:37:01",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSlXyv9Ml0tvGHkDmW" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:37:36",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSlYd9goted-T58Ysn" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:37:38",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSp92Beot3EkzWDYpL" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:53:22",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSp9eZhMA-86JrBnnm" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 16:53:25",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgSvdy16HQsnlQq9_da" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 17:21:46",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSvefWmWJ1inpkwOgw" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 17:21:49",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSz5MIEfjs0rgnn07_" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 17:36:48",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSz7uMSgKmZ6ZZXbRX" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 17:36:59",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgSz829BN0tr5nu2W4S" : {
+      "action" : "Enter",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 17:36:59",
+      "phone" : "Person3 - iPhone XR"
+    },
+    "-LgT-meUfgi_F4ug_0Cy" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-03 17:44:12",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVtb8ZF6_YGJpzldD6" : {
+      "action" : "Exit",
+      "carnumber" : "3",
+      "datetime" : "2019-06-04 07:11:41",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVtgvwJjyDHwDOFlGS" : {
+      "action" : "Exit",
+      "carnumber" : "2",
+      "datetime" : "2019-06-04 07:12:05",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVtgwjwTkWHAfEQrzu" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:12:05",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVth3EE17NozciekxA" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:12:06",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVth4XRGLLATxiW3ff" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:12:06",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVuO47yOlIs85Ghyir" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:15:06",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVuW5X2PPe7uy0Y2f7" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:15:39",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVuWTSZGB0rlOkbbqr" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:15:40",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVum5hHs9uiGgdWiex" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:16:49",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVvuvUbOAGJkrhMXGd" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:21:47",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVw-OJ7XgHm8k4rz9v" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:22:09",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwCqjGXHA6zMqpivU" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:23:04",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwD56NfpdYktjQY5w" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:23:05",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwN-ziC4fTJkxRRcw" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:23:46",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwOqMhyZ3YTAIsoaH" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:23:53",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwPglU0I8Z-NRpd0A" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:23:57",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwX228xuAIepi8wAL" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:24:27",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVwdWE2Iw7EHAhWgs5" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:24:58",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgVyHE0FeL5jt79M1P2" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:32:07",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVyHF88Y_umZ9VTTBo" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:32:07",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVz-9-JSGDjwE88oFV" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:35:15",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgVz-FVi1DQ5P9L1lFG" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:35:15",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgW32vVGj9yO0pU8JJ2" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:57:21",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgW34Gl5QFSyfIgHbVR" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 07:57:26",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgW4X7TIMZF6s_ev3w1" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 08:03:47",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgW4XGzSYgtBrutOCLh" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 08:03:47",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgW7FxLaZPAWKLM-jTX" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 08:15:43",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgW7G163ZAPFOhrsLdc" : {
+      "action" : "Enter",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 08:15:43",
+      "phone" : "Person1 - iPhone"
+    },
+    "-LgW93Wi-ztx0qsdVIjZ" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 08:23:36",
+      "phone" : "Person2 - iPhone"
+    },
+    "-LgW9qr1JOUdr1CuJVJt" : {
+      "action" : "Exit",
+      "carnumber" : "1",
+      "datetime" : "2019-06-04 08:27:02",
+      "phone" : "Person1 - iPhone"
+    }
+  }
+}
